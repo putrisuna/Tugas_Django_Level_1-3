@@ -1,0 +1,7 @@
+h1 {
+    color: palevioletred;
+}
+
+table, tr, td {
+    border: 2px  solid rgb(223, 1, 67);
+}
